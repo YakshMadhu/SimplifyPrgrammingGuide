@@ -2,38 +2,38 @@
 
 As the title suggests
 
-# **Dynamic Programming:** 
--Identify overlapping subproblems 
--Store solved results 
--Combine subproblem answers 
+**Dynamic Programming:** 
+- Identify overlapping subproblems 
+- Store solved results 
+- Combine subproblem answers 
 
-# **Array:**
+**Array**
 - Group related values
 - Access by Index
 
-# **String:**
--Represent text
--Store character sequences
+**String**
+- Represent text
+- Store character sequences
 
-# **Hash table:**
--Associate keys with values
--Look up by key
+**Hash table**
+- Associate keys with values
+- Look up by key
 
-# **Sorting:**
--Arrange in order
--Order by criteria
+**Sorting**
+- Arrange in order
+- Order by criteria
 
-# **Greedy:**
--Make locally optimal choices
--Build solution incrementally 
+**Greedy**
+- Make locally optimal choices
+- Build solution incrementally 
 
-# **Binary search:**
--Search the sorted data
--Halve the search range
+**Binary search**
+- Search the sorted data
+- Halve the search range
 
-# **Depth-First Search:**
--Explore one branch at a time
--Backtrack when needed
+**Depth-First Search**
+- Explore one branch at a time
+- Backtrack when needed
 
 **Database**
 - Store organized records
